@@ -8,13 +8,13 @@
 Summary:	MIME::Explode - Perl extension for explode MIME messages
 Summary(pl):	MIME::Explode - rozszerzenie Perla do rozbijania wiadomo¶ci MIME
 Name:		perl-MIME-Explode
-Version:	0.30
+Version:	0.31
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	44985b62b03805c3646280685aa2e7e7
+# Source0-md5:	e03fd15b4e16190071852879d724d115
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
