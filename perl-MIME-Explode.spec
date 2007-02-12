@@ -6,7 +6,7 @@
 %define		pdir	MIME
 %define		pnam	Explode
 Summary:	MIME::Explode - Perl extension for explode MIME messages
-Summary(pl):	MIME::Explode - rozszerzenie Perla do rozbijania wiadomo∂ci MIME
+Summary(pl.UTF-8):   MIME::Explode - rozszerzenie Perla do rozbijania wiadomo≈õci MIME
 Name:		perl-MIME-Explode
 Version:	0.37
 Release:	1
@@ -25,11 +25,11 @@ multipart MIME messages, and outputting its decoded components to a
 given directory. This module is designed to allows users to extract
 the attached files out of a MIME encoded email messages or mailboxes.
 
-%description -l pl
-MIME::Explode to modu≥ Perla do analizy i dekodowania jedno- i
-wieloczÍ∂ciowych wiadomo∂ci MIME oraz zapisu zdekodowanych sk≥adnikÛw
-do podanego katalogu. Ten modu≥ zosta≥ opracowany aby umoøliwiÊ
-uøytkownikom wydobywanie za≥±cznikÛw z zakodowanych MIME wiadomo∂ci
+%description -l pl.UTF-8
+MIME::Explode to modu≈Ç Perla do analizy i dekodowania jedno- i
+wieloczƒô≈õciowych wiadomo≈õci MIME oraz zapisu zdekodowanych sk≈Çadnik√≥w
+do podanego katalogu. Ten modu≈Ç zosta≈Ç opracowany aby umo≈ºliwiƒá
+u≈ºytkownikom wydobywanie za≈ÇƒÖcznik√≥w z zakodowanych MIME wiadomo≈õci
 lub skrzynek pocztowych.
 
 %prep
