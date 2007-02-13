@@ -6,7 +6,7 @@
 %define		pdir	MIME
 %define		pnam	Explode
 Summary:	MIME::Explode - Perl extension for explode MIME messages
-Summary(pl.UTF-8):   MIME::Explode - rozszerzenie Perla do rozbijania wiadomości MIME
+Summary(pl.UTF-8):	MIME::Explode - rozszerzenie Perla do rozbijania wiadomości MIME
 Name:		perl-MIME-Explode
 Version:	0.37
 Release:	1
