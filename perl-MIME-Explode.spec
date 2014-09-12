@@ -61,6 +61,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/MIME/Explode.pm
 %dir %{perl_vendorarch}/auto/MIME/Explode
 %{perl_vendorarch}/auto/MIME/Explode/autosplit.ix
-%{perl_vendorarch}/auto/MIME/Explode/Explode.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/MIME/Explode/Explode.so
 %{_mandir}/man3/*
