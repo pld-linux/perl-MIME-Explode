@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	MIME
 %define		pnam	Explode
 Summary:	MIME::Explode - Perl extension for explode MIME messages
